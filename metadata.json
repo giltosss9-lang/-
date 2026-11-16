@@ -1,0 +1,6 @@
+{
+  "name": "HERITAGE — Мужской барбершоп и клуб в Москве",
+  "description": "Премиальный мужской барбершоп на Патриарших прудах: классические стрижки, королевское бритьё и персональный груминг.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
